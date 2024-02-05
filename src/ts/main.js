@@ -1,6 +1,6 @@
 "use strict";
 // Object.defineProperty(exports, "__esModule", { value: true });
-import "./../scss/style.css";
+import "../scss/style.css";
 import { closePage, openPage, stopScroll, validateForm } from "../ts/functions.js";
 import { Product } from "../ts/models/Product.js";
 var products = [
