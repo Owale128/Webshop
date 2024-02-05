@@ -613,7 +613,7 @@ h3 {
 .header {
   display: flex;
   height: 100vh;
-  background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(245, 245, 245, 0.1)), url("src/assets/img/resized_images/hero.webp") center/cover no-repeat;
+  background: linear-gradient(to top, rgba(0, 0, 0, 0.4), rgba(245, 245, 245, 0.1)), url("../assets/img/resized_images/hero.webp") center/cover no-repeat;
   color: whitesmoke;
   justify-content: space-evenly;
   align-items: center;
