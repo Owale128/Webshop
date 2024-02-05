@@ -1,8 +1,8 @@
 "use strict";
 // Object.defineProperty(exports, "__esModule", { value: true });
 import "./../scss/style.css";
-import { closePage, openPage, stopScroll, validateForm } from "../ts/functions";
-import { Product } from "../ts/models/Product";
+import { closePage, openPage, stopScroll, validateForm } from "../ts/functions.js";
+import { Product } from "../ts/models/Product.js";
 var products = [
     new Product("Rödgran", "src/assets/img/resized_images/red_spruce3.webp", "230 – 260 cm", 499, "Rödgranen, en symbol för julens stämning, är känd för sina stadiga grenar och doftande barr som sprider en friskhet som förtrollar. Med dess frodiga barrverk och praktfulla utseende blir denna gran ett lysande inslag i juldekorationerna. Med rätt underhåll sitter barren kvar länge och ger en varaktig skönhet som fyller hemmet med en känsla av tradition och glädje under helgerna.", "001"),
     new Product("Rödgran", "src/assets/img/resized_images/red_spruce.webp", "180 – 230 cm", 350, "Inget fångar julens anda som den klassiska rödgranen. Dess slanka silhuett och intensiva gröna barr skapar en fantastisk atmosfär och sprider en ljuvlig doft i varje vrå. Rödgranen är mer än en dekoration – den är själva hjärtat i julens festligheter och bjuder in till en tid av gemenskap och värme.", "002"),
