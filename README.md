@@ -3,7 +3,7 @@
 
 ![webShopPic](https://github.com/user-attachments/assets/4791846e-060f-4717-b20b-9dc100d99715)
 
-Link to the app: https://owale128.github.io/Webshop/
+You can visit the page at://owale128.github.io/Webshop/
 
 # Stack:
 [![My Skills](https://skillicons.dev/icons?i=html,scss,ts)](https://skillicons.dev)
