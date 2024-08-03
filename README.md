@@ -1,19 +1,13 @@
 
-#This is a school project! 😃
+# Webshop - This is a school project! 😃
 
-![image](https://github.com/user-attachments/assets/bc277ff2-061a-4a67-bb43-18e2327831b6)
+Link to the app: https://owale128.github.io/Webshop/
 
-# Webshop - A submission task
+![webShopPic](https://github.com/user-attachments/assets/4791846e-060f-4717-b20b-9dc100d99715)
 
-This task requires you to build a webshop based on the requirements below.
 
-This project is a knowledge project where you have a ready-made structure to work on.
-
-## Technology
-
-- HTML
-- SCSS
-- TypeScript
+# Stack:
+[![My Skills](https://skillicons.dev/icons?i=html,scss,ts)](https://skillicons.dev)
 
 ## Requirements - Grade G
 
